@@ -1,0 +1,114 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clerk Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "name": "Flash",
+      "alterEgo": "Barry Allen"
+    },
+    {
+      "id": 5,
+      "name": "Green Arrow",
+      "alterEgo": "Oliver Queen"
+    },
+    {
+      "name": "Spider Man",
+      "alterEgo": "Peter Parker",
+      "id": 6
+    },
+    {
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark",
+      "id": 7
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy Batsaon",
+      "id": 8
+    },
+    {
+      "name": "cdx",
+      "alterEgo": "weer",
+      "id": 9
+    },
+    {
+      "name": "cdx",
+      "alterEgo": "weer",
+      "id": 10
+    },
+    {
+      "name": "Bat",
+      "alterEgo": "Mobil",
+      "id": 11
+    },
+    {
+      "name": "Catwoman",
+      "alterEgo": "Selena Kyle",
+      "id": 12
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Authur Curry",
+      "id": 13
+    },
+    {
+      "name": "Samantha Smith",
+      "alterEgo": "dfgfh",
+      "id": 14
+    }
+  ],
+  "animes": [
+    {
+      "id": 1,
+      "anime": "One Piece",
+      "protagonist": "Monkey D Luffy"
+    },
+    {
+      "id": 2,
+      "anime": "Naruto",
+      "protagonist": "Uzumaki Naruto"
+    },
+    {
+      "id": 3,
+      "anime": "Bleach",
+      "protagonist": "Kurosaki Ichigo"
+    },
+    {
+      "id": 4,
+      "anime": "Fairy Tail",
+      "protagonist": "Natsu Dragneel"
+    }
+  ],
+  "users": [
+    {
+      "id": "yomi@test.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": [
+        "react",
+        "nodejs",
+        "nextjs",
+        "flutter",
+        "nestjs"
+      ]
+    }
+  ]
+}
